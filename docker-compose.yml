@@ -1,8 +1,0 @@
-version: '3'
-services:
-  web:
-    image: my-web-app
-    build: .
-    ports:
-      - "3040:3040"
-    container_name: my-web-app-container
