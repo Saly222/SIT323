@@ -1,0 +1,23 @@
+{"level":"error","message":"n1 is incorrectly defined","service":"add-service"}
+{"level":"info","message":"Parameters 20 and 10 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 200 and 100 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 10 and 20 received for addition","service":"add-service"}
+{"level":"info","message":"Parameters 4 and 6 received for addition","service":"Calculator-service"}
+{"level":"info","message":"Parameters 4 and 6 received for addition","service":"Calculator-service"}
+{"level":"info","message":"Parameters 4 and 6 received for addition","service":"Calculator-service"}
+{"level":"info","message":"Parameters 4 and 6 received for addition","service":"Calculator-service"}
+{"level":"info","message":"Parameters 4 and 6 received for addition","service":"Calculator-service"}
+{"level":"info","message":"Parameters 4 and 6 received for subtraction","service":"Calculator-service"}
+{"level":"info","message":"Parameters 4 and 6 received for subtraction","service":"Calculator-service"}
+{"level":"info","message":"Parameters 10 and 20 received for subtraction","service":"Calculator-service"}
+{"level":"info","message":"Parameters 10 and 20 received for subtraction","service":"Calculator-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"Calculator-service"}
+{"level":"info","message":"Parameters 10 and 5 received for subtraction","service":"Calculator-service"}
+{"level":"info","message":"Parameters 10 and 5 received for multiplication","service":"Calculator-service"}
+{"level":"info","message":"Parameters 10 and 5 received for multiplication","service":"Calculator-service"}
+{"level":"info","message":"Parameters 10 and 5 received for division","service":"Calculator-service"}
+{"level":"info","message":"Parameters 0 and 9 received for addition","service":"Calculator-service"}
+{"level":"info","message":"Parameters 0 and 9 received for addition","service":"Calculator-service"}
+{"level":"info","message":"Parameters 0 and 0 received for addition","service":"Calculator-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"Calculator-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"Calculator-service"}
